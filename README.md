@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with
 
 This project is the API of To Do List.
 
